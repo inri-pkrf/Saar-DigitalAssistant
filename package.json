@@ -1,7 +1,7 @@
 {
   "name": "saar-lomda",
   "version": "0.1.0",
-  "homepage": "https://inri-pkrf.github.io/Saar-Lomda",
+  "homepage": "https://inri-pkrf.github.io/Saar-DigitalAssistant",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
