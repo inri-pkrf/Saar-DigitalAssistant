@@ -19,7 +19,7 @@ function Intro() {
   useEffect(() => {
     let timer;
     if (isLoaded) {
-      timer = setTimeout(() => setShowSkip(true), 1000); // 1 sec
+      timer = setTimeout(() => setShowSkip(true), 2000); 
     }
     return () => clearTimeout(timer);
   }, [isLoaded]);
