@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Saar-Lomda/static/css/main.3aa57041.css",
-    "main.js": "/Saar-Lomda/static/js/main.1354e6fa.js",
-    "static/js/453.23178865.chunk.js": "/Saar-Lomda/static/js/453.23178865.chunk.js",
-    "index.html": "/Saar-Lomda/index.html",
-    "main.3aa57041.css.map": "/Saar-Lomda/static/css/main.3aa57041.css.map",
-    "main.1354e6fa.js.map": "/Saar-Lomda/static/js/main.1354e6fa.js.map",
-    "453.23178865.chunk.js.map": "/Saar-Lomda/static/js/453.23178865.chunk.js.map"
+    "main.css": "/Saar-DigitalAssistant/static/css/main.3aa57041.css",
+    "main.js": "/Saar-DigitalAssistant/static/js/main.c3a3adcb.js",
+    "static/js/453.23178865.chunk.js": "/Saar-DigitalAssistant/static/js/453.23178865.chunk.js",
+    "index.html": "/Saar-DigitalAssistant/index.html",
+    "main.3aa57041.css.map": "/Saar-DigitalAssistant/static/css/main.3aa57041.css.map",
+    "main.c3a3adcb.js.map": "/Saar-DigitalAssistant/static/js/main.c3a3adcb.js.map",
+    "453.23178865.chunk.js.map": "/Saar-DigitalAssistant/static/js/453.23178865.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3aa57041.css",
-    "static/js/main.1354e6fa.js"
+    "static/js/main.c3a3adcb.js"
   ]
 }
