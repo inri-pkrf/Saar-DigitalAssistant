@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Saar-DigitalAssistant/static/css/main.3aa57041.css",
-    "main.js": "/Saar-DigitalAssistant/static/js/main.c3a3adcb.js",
+    "main.js": "/Saar-DigitalAssistant/static/js/main.777183d1.js",
     "static/js/453.23178865.chunk.js": "/Saar-DigitalAssistant/static/js/453.23178865.chunk.js",
     "index.html": "/Saar-DigitalAssistant/index.html",
     "main.3aa57041.css.map": "/Saar-DigitalAssistant/static/css/main.3aa57041.css.map",
-    "main.c3a3adcb.js.map": "/Saar-DigitalAssistant/static/js/main.c3a3adcb.js.map",
+    "main.777183d1.js.map": "/Saar-DigitalAssistant/static/js/main.777183d1.js.map",
     "453.23178865.chunk.js.map": "/Saar-DigitalAssistant/static/js/453.23178865.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3aa57041.css",
-    "static/js/main.c3a3adcb.js"
+    "static/js/main.777183d1.js"
   ]
 }
